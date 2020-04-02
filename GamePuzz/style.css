@@ -1,0 +1,32 @@
+td{
+    border: 1px solid black;
+    width: 500px;
+    height:100px ;
+}
+table{
+    margin-top: 50px;
+    margin-left: 150px;
+    border-collapse: collapse;
+    width: 520px;
+    border-right: 10px solid blue;
+    border-left: 10px solid blue;
+}
+div{
+    padding-top: 20px;
+    padding-left: 600px;
+
+}
+button{
+    color: red;
+    background: aqua;
+}
+/*#color1{*/
+/*    border-right: 5px solid blue;*/
+/*}*/
+/*#color2{*/
+/*    border-right: 5px solid blue;*/
+/*}*/
+/*#color3{*/
+/*    border-right: 5px solid blue;*/
+
+/*}*/
